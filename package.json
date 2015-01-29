@@ -2,7 +2,7 @@
   "name": "SoundImitApp",
   "version": "0.0.0",
   "description": "Sound imitation web application",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
